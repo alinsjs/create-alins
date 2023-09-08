@@ -1,6 +1,6 @@
 {
   "name": "create-alins",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An easy way to start a Alins project",
   "type": "module",
   "bin": {
