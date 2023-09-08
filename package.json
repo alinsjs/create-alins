@@ -1,6 +1,6 @@
 {
   "name": "create-alins",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An easy way to start a Alins project",
   "type": "module",
   "bin": {
@@ -18,7 +18,7 @@
   ],
   "author": "theajack",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "ebuild-cli": "0.2.10"
   }
 }
