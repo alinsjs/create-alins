@@ -1,0 +1,24 @@
+{
+  "name": "create-alins",
+  "version": "0.0.2",
+  "description": "An easy way to start a Alins project",
+  "type": "module",
+  "bin": {
+    "create-alins": "index.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinsjs/create-alins.git"
+  },
+  "scripts": {
+  },
+  "files": [
+    "index.js",
+    "package.json"
+  ],
+  "author": "theajack",
+  "license": "MIT",
+  "devDependencies": {
+    "ebuild-cli": "0.2.10"
+  }
+}
