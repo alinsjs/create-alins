@@ -1,6 +1,6 @@
 {
   "name": "create-alins",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "An easy way to start a Alins project",
   "type": "module",
   "bin": {
@@ -13,7 +13,9 @@
   "scripts": {
   },
   "files": [
-    "index.js",
+    "index.cjs",
+    "libs",
+    "LICENSE",
     "package.json"
   ],
   "author": "theajack",

@@ -15,11 +15,9 @@ fs.writeFileSync('./a.txt', coolString, '');
 const inquirer = require('inquirer');
 const progress = require('log-progress');
 const download = require('download-git-repo');
-const log = require('./log.cjs');
+const log = require('./libs/log.cjs');
 const path = require('path');
 const fs = require('fs');
-
-
 
 const banner = 'Alins - The Purest and Elegant Web UI framework.';
 
